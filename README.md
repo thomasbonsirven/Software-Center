@@ -1,4 +1,5 @@
 # Software-Center
+# NOT WORK ON THIS REPO !
 
 Software Center is a program that allows you to set up software that groups all the applications of your company.
 I am building this software to find a similar solution to the SCCM / Microsoft Software Center without the paid license and the constraints of having a server.
